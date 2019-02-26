@@ -1,2 +1,2 @@
 # Sayori-Bot-Eyes
-Sayori's eyes based will be stored here.
+Sayori's eyes based works will be stored here.
